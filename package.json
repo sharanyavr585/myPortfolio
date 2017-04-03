@@ -1,0 +1,23 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "\"My Prtfolio Website Using MEAN\"",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharanyavr585/myPortfolio.git"
+  },
+  "author": "Sharanya Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharanyavr585/myPortfolio/issues"
+  },
+  "homepage": "https://github.com/sharanyavr585/myPortfolio#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0"
+  }
+}
